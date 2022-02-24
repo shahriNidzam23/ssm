@@ -86,10 +86,10 @@ const types = () => {
             name: "Business Registration Number New",
             key: "robNew"
         },
-        {
-            name: "LLP Registration Number",
-            key: "llp"
-        }
+        // {
+        //     name: "LLP Registration Number",
+        //     key: "llp"
+        // }
     ];
 }
 
