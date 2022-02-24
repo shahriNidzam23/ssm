@@ -2,8 +2,8 @@
 # SSM Companies/Business API
 
 ## Requirement
-Node Version: v16.3.0
-NPM Version: 8.4.0
+- Node Version: v16.3.0
+- NPM Version: 8.4.0
 
 ## Installation
 0. npm i -g pm2
