@@ -1,0 +1,11 @@
+{
+    "apps": [
+        {
+            "name": "ssm-api",
+            "script": "index.js",
+            "instances": 1,
+            "restart_delay": 3000,
+            "autorestart": true
+        }
+    ]
+}

@@ -1,0 +1,17 @@
+{
+  "name": "ssm",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "pm2 start processes.json",
+    "serve": "nodemon index.js"
+  },
+  "dependencies": {
+    "cookie-parser": "^1.4.6",
+    "express": "^4.17.3",
+    "nodemon": "^2.0.15",
+    "playwright": "^1.19.2"
+  },
+  "author": "Shahrin Nidzam",
+  "license": "ISC"
+}
